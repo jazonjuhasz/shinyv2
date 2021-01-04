@@ -1,0 +1,92 @@
+{
+  "common": {
+    "search": "Search",
+    "reset": "Reset",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "confirm": "Corfirm deleting"
+  },
+  "login": {
+    "attention": "You need to sign in before continuing",
+    "login": "Log in",
+    "username": "Username",
+    "pwd": "Password",
+    "error": "Invalid username or password"
+  },
+  "register": {
+    "register": "Register",
+    "attention": "Not a member? Sign up today!",
+    "login": "Already a member? Sign in here",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "username": "Username",
+    "email": "E-mail",
+    "password": "Password",
+    "success": "Successful registration",
+    "fail": "Username already taken"
+  },
+  "sidenav": {
+    "index": "Home",
+    "users": "Users",
+    "exit": "Log out",
+    "gifts": "Gifts",
+    "mygifts": "My gifts",
+    "friends": "Friends"
+  },
+  "user": {
+    "all": "All",
+    "add": "New user",
+    "edit": "Edit",
+    "delete": "Delete",
+    "role": {
+      "role": "Role",
+      "user": "User",
+      "mod": "Moderator",
+      "admin": "Admin"
+    },
+    "new": {
+      "firstname": "Firstname",
+      "lastname": "Lastname",
+      "email": "E-mail",
+      "pwd": "Password"
+    },
+    "status": {
+      "status": "Status",
+      "active": "Active",
+      "inactive": "Inactive"
+    },
+    "search": "Name/e-mail",
+    "addFriend": "Add Friend"
+  },
+  "status": {
+    "success": "Successful operation",
+    "fail": "Operation failed"
+  },
+  "gift": {
+    "gift": "Gifts",
+    "add": "New gift",
+    "edit": "Edit",
+    "delete": "Delete",
+    "name": "Name",
+    "description": "Description",
+    "giftify": "Giftify",
+    "getOffer": "Get new gift",
+    "giftifyText": "Send gift to a friend",
+    "send": "Send"
+  },
+  "wishlist": {
+    "wishlist": "Wishlist",
+    "header": "My wishlist",
+    "on": "This gift is on your friend's wishlist",
+    "add": "Add to wishlist"
+  },
+  "friend": {
+    "friends": "Friends",
+    "users": "Users",
+    "pending": "Pending",
+    "myRequests": "My requests",
+    "add": "Add friend",
+    "accept": "Accept"
+  }
+}

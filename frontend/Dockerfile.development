@@ -1,0 +1,11 @@
+FROM node:14-alpine
+RUN apk update
+
+WORKDIR /usr/src/app
+
+COPY ./package.json .
+RUN npm install
+COPY . .
+
+EXPOSE 4200
+ENTRYPOINT npm run -- ng serve --host 0.0.0.0 --disable-host-check

@@ -1,0 +1,93 @@
+{
+  "common": {
+    "search": "Keresés",
+    "reset": "Törlés",
+    "cancel": "Mégse",
+    "save": "Mentés",
+    "delete": "Törlés",
+    "confirm": "Biztosan törli"
+  },
+  "login": {
+    "attention": "Jelentkezz be a folytatáshoz",
+    "login": "Bejelentkezés",
+    "username": "Felhasználónév",
+    "pwd": "Jelszó",
+    "error": "Hibás felhasználónév vagy jelszó"
+  },
+  "register": {
+    "register": "Regisztráció",
+    "attention": "Még nem vagy tag? Regisztálj most!",
+    "login": "Már tag vagy? Jelentkezz be itt",
+    "firstName": "Keresztnév",
+    "lastName": "Vezetéknév",
+    "username": "Felhasználónév",
+    "email": "E-mail",
+    "password": "Jelszó",
+    "success": "Sikeres regisztráció",
+    "fail": "Ez a felhasználónév már foglalt"
+  },
+  "sidenav": {
+    "index": "Főoldal",
+    "users": "Felhasználók",
+    "exit": "Kijelentkezés",
+    "gifts": "Ajándékok",
+    "mygifts": "Ajándékaim",
+    "friends": "Barátok"
+  },
+  "user": {
+    "user": "Felhasználók",
+    "all": "Összes",
+    "add": "Új felhasználó",
+    "edit": "Szerkesztés",
+    "delete": "Törlés",
+    "role": {
+      "role": "Jogosultság",
+      "user": "Felhasználó",
+      "mod": "Moderátor",
+      "admin": "Admin"
+    },
+    "new": {
+      "firstname": "Keresztnév",
+      "lastname": "Vezetéknév",
+      "email": "E-mail",
+      "pwd": "Jelszó"
+    },
+    "status": {
+      "status": "Státusz",
+      "active": "Aktív",
+      "inactive": "Inaktív"
+    },
+    "search": "Név/e-mail cím",
+    "addFriend": "Barát hozzáadása"
+  },
+  "status": {
+    "success": "Sikeres művelet",
+    "fail": "Sikertelen művelet"
+  },
+  "gift": {
+    "gift": "Ajándékok",
+    "add": "Új ajándék",
+    "edit": "Szerkesztés",
+    "delete": "Törlés",
+    "name": "Név",
+    "description": "Leírás",
+    "giftify": "Elajándékozás",
+    "getOffer": "Kérek új ajándékot",
+    "giftifyText": "Küldés egy barátnak",
+    "send": "Küldés"
+  },
+  "wishlist": {
+    "wishlist": "Kívánságlista",
+    "header": "Kívánságlistám",
+    "on": "Ez az ajándék szerepel a barátod kívánságlistáján",
+    "add": "Kívánságlistára"
+  },
+  "friend": {
+    "friends": "Barátok",
+    "users": "Felhasználók",
+    "pending": "Függőben",
+    "myRequests": "Jelöléseim",
+    "add": "Barát hozzáadása",
+    "accept": "Elfogadás"
+  }
+}
